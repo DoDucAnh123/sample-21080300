@@ -73,7 +73,7 @@ button {
 <body>
 <body style = "background-color:pink" >
 <div class="header">
-  <img style="border-radius:50%;object-fit:cover" src= "hobby.jpg" width="250" height="250"  alt="error"/>
+  <img style="border-radius:50%;object-fit:cover" src= "hobby.jpg" width="200" height="200"  alt="error"/>
   <h1>Đỗ Đức Anh</h1>
   <p>MAS 1 - 21080300</p>
  
@@ -93,13 +93,13 @@ button {
 	<P> Mình sinh năm 2003 tại thành phố Thanh hóa thân iu.</p>
 	<p> Tính cách thì hòa đồng và vui vẻ là điều mà mình luôn có 😝 </p>
 	<br>
-	<img src= "anhdaidien.jpg" width=380px height="400" alt="error"/>
+	<img src= "anhdaidien.jpg" width=500px height="500" alt="error"/>
 	<p> Hiện tại mình đang học tại trường Quản trị và Kinh Doanh HSB khoa Quản trị và an ninh, môi trường ở đây rất tốt và mình rất vui khi được học tại đây ✍️🎒</p>
 	<br>
-	<img src= "truong.jpg" width=380px height="400" alt="error"/>
+	<img src= "truong.jpg" width=500px height="500" alt="error"/>
 	<p> Đang là sinh viên năm hai nên chặng đường đi tới thành công còn xa, còn nhiều điều mình cần học hỏi nhưng mình sẽ cố gắng để đạt được thành quả tốt, không phụ lòng mọi người. </p>
 	<br>
-	<img src= "truong2.jpg" width=380px height="400" alt="error"/>
+	<img src= "truong2.jpg" width=500px height="500" alt="error"/>
 		</div>
   </div>
   
