@@ -1,5 +1,4 @@
 # sample-21080300
-<!DOCTYPE html>
 <html>
 <head>
 <title>21080300-Do Duc Anh</title>
